@@ -1,2 +1,0 @@
-# dvstatic
-Página Temporária DV 
